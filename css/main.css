@@ -41,3 +41,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+button {
+    font-size: 1em;
+    background: transparent;
+    color: #999;
+    font-weight: inherit;
+    border: none;
+
+}
+button:active {
+    border: none;
+}
